@@ -14,7 +14,7 @@ Summary:        A tool to detect and correct common issues around RPM database c
 
 License:        GPL-2.0
 URL:            https://pypi.python.org/pypi/%{srcname}
-Source0:        https://github.com/facebookincubator/dcrpm/archive/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
+Source0:        https://github.com/facebookincubator/dcrpm/archive/%{version}.tar.gz 
 Source1:        dcrpm.py
 
 # Facebook-specific logging stuff

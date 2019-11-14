@@ -5,7 +5,7 @@ Summary:        Create legacy-free OS images
 
 License:        LGPLv2+
 URL:            https://github.com/systemd/mkosi
-Source0:        https://github.com/systemd/mkosi/archive/v%{version}/%{name}-%{version}.tar.gz
+Source0:	https://github.com/systemd/mkosi/archive/v%{version}.tar.gz
 Source1:        RPM-GPG-KEY-fedora-23-x86_64
 Source2:        RPM-GPG-KEY-fedora-24-x86_64
 Source3:        RPM-GPG-KEY-fedora-25-x86_64

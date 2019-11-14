@@ -7,7 +7,8 @@ Packager:       Julia Kartseva <hex@fb.com>
 
 License:        GPL-2.1 OR BSD-2-Clause
 URL:            https://github.com/libbpf/libbpf
-Source:         libbpf-%{version}-%{release}.tar.gz
+#Source:         libbpf-%{version}-%{release}.tar.gz
+Source0:	https://github.com/libbpf/libbpf/archive/v%{version}.tar.gz
 BuildRequires:  elfutils-libelf-devel elfutils-devel
 
 %description
